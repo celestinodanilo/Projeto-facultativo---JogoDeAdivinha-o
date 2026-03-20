@@ -14,8 +14,7 @@ programação, como:
 - Herança
 - Polimorfismo
 - Princípios SOLID
-- 
--PRÉ VISUALIZAÇÃO
+- PRÉ VISUALIZAÇÃO
 
 <img width="437" height="667" alt="image" src="https://github.com/user-attachments/assets/e3ee01ca-ae13-4295-83bc-9977aceaf248" />
 
