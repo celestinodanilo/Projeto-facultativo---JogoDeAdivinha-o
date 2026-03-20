@@ -1,4 +1,3 @@
-<img width="437" height="667" alt="image" src="https://github.com/user-attachments/assets/2e5b60a7-c3cb-4ef7-a753-58f7c4117b4c" /># Projeto-facultativo---JogoDeAdivinha-o
 
 # 🎮 Jogo de Adivinhação em Python
 Projeto simples desenvolvido em Python utilizando conceitos de
