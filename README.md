@@ -35,7 +35,7 @@ Aplicação de princípios como SRP, OCP, LSP, ISP e DIP.
 ---
 ## ▶️ Como executar
 
-None
+Danilo Celestino dos Santos
 
 None
 1. Instale o Python
